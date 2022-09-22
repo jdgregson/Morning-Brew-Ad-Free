@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://www.morningbrew.com/emerging-tech/issues/latest",
+        "last_order": "May 24, 2021",
+        "email_to": "user@website.com"
+    },
+    {
+        "url": "https://www.morningbrew.com/daily/issues/latest",
+        "last_order": "May 25, 2021",
+        "email_to": "user2@website.com"
+    }
+]
